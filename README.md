@@ -62,3 +62,4 @@
     docker-compose logs ollamasrv
     ```
     This will display logs and may provide insights if there are any issues.
+    
